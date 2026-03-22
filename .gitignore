@@ -1,0 +1,17 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+.venv/
+
+# Project Results
+results/
+
+# Agent Specific
+.agent/
+
+# OS Specific
+.DS_Store
+Thumbs.db
